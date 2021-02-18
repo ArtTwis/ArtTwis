@@ -1,7 +1,7 @@
 <!---![Design and Development](https://github.com/ArtTwis/ArtTwis/blob/main/githubProfileBanner.jpg)--->
 
 # Hi there 👋, I'm Twinkle Goyal
-I'm Twinkle from India 🇮🇳, and I am a Software Developer. I really enjoy learning languages and frameworks like React, React Native etc. I also enjoy Ui designing in general. You can checkout my website at https://arttwis.github.io .
+I'm from India 🇮🇳, and I am a Software Developer. I really enjoy learning languages and frameworks like React, React Native etc. I also enjoy Ui designing in general. You can checkout my website at https://arttwis.github.io .
 
 ## Skills and Experience
 * 🖥 HTML , CSS , JS
