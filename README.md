@@ -4,7 +4,9 @@
 I'm from India 🇮🇳, and I am a Software Developer. I really enjoy learning languages and frameworks like React, React Native etc. I also enjoy Ui designing in general. You can checkout my website at https://arttwis.github.io .
 
 ## Skills and Experience
-* 🖥 HTML , CSS , JS
+* 🖥 HTML , CSS , JS , NodeJS
+* ☕️ Java
+* 🐍 Python
 * ⚛️ ReactJS
 
 ## Example of Work
