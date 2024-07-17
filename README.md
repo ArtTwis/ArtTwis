@@ -4,20 +4,21 @@
 I'm from India 🇮🇳, and I am a Software Developer. I really enjoy learning languages and frameworks like React, React Native etc. I also enjoy Ui designing in general. You can checkout my website at https://arttwis.github.io .
 
 ## Skills and Experience
-* 🖥 HTML , CSS , JS , NodeJS
+* 🖥 HTML , CSS
+* 💻 Javascript
+* 💻 NodeJS
+* ⚛️ ReactJS
 * ☕️ Java
 * 🐍 Python
-* ⚛️ ReactJS
 
 ## Example of Work
 <!---<img src="" width="256" />--->
 
 ## Currently Working
-* Jetman App
-* Hestia-Pro
+* Veda
 
 ## Currently Learning
-* ReactJS  
+* NexttJS  
 
 ## Reach Me
 📱 => +91-8118844518 
